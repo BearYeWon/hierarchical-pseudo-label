@@ -402,7 +402,14 @@ def main():
 
     parser.add_argument(
         "--graph-dir",
-        required=True,
+        type=str,
+        default="outputs/toys_behavior_mutual",
+    )
+
+    parser.add_argument(
+        "--output-name",
+        type=str,
+        default="structural_embeddings.npy",
     )
 
     parser.add_argument(
@@ -570,7 +577,7 @@ def main():
 
     output_path = (
         graph_dir
-        / "structural_embeddings.npy"
+        / args.output_name
     )
 
     np.save(

@@ -1,0 +1,315 @@
+Representative Hierarchical Pseudo-label Case Study
+Cases: strong / median / random
+graph_strength = sum of edge weights to items inside the same Fine cluster
+
+================================================================================
+STRONG CASE
+================================================================================
+Global label: 9
+Items: 388
+Selection score: 3.126289
+Fine internal edges: 1213
+
+--- Local 6 (items=84) ---
+
+  Fine 0 (items=35)
+    - B01B44NWFU | strength=103.0 | Marvel 6 Inch Legends Series Deadpool
+    - B012MGTMOO | strength=99.0 | Marvel 6-Inch Legends Series Secret War Captain America
+    - B012MGT3SO | strength=90.0 | Marvel 6 Inch Legends Forces of Evil Whirlwind Action Figure (Build Red Skull)
+    - B01BY1JK8G | strength=67.0 | Marvel 6 Inch Legends Series Karl Mordo
+    - B012MGT7IA | strength=62.0 | Marvel 6 Inch Legends Agents of Shield Mockingbird Action Figure (Build Red Skull)
+    - B01BY1JK6S | strength=59.0 | Marvel 6 Inch Legends Mystic Rivals: Enchantress
+    - B012MGT4Q0 | strength=57.0 | Marvel 6 Inch Legends Mercenaries of Mayhem Scourge Action Figure (Build Red Skull)
+    - B012MGTMVW | strength=55.0 | Marvel 6-Inch Legends Series Red Guardian Figure
+
+  Fine 3 (items=28)
+    - B00NYZTKWW | strength=88.0 | Marvel Legends Infinite Series Thor 6-Inch Figure
+    - B00SDHU4AI | strength=76.0 | Marvel Legends Infinite Series Bulldozer
+    - B00SQ8PU1M | strength=68.0 | Marvel Legends Infinite Series Maidens of Might Scarlet Witch 6 Inch Figure
+    - B00SDHU4LM | strength=61.0 | Marvel Legends Infinite Series Ant-Man
+    - B00SQ80YN6 | strength=60.0 | Marvel Legends Infinite Series Avenging Allies Sentry 6-Inch Figure
+    - B00NYZPHA6 | strength=59.0 | Marvel Legends Infinite Series Marvel's Hawkeye 6-Inch Figure
+    - B00Q87YQ1S | strength=58.0 | Marvel Legends Infinite Series Savage Force Kraven
+    - B00SDHU81I | strength=58.0 | Marvel Legends Infinite Series Wasp
+
+  Fine 1 (items=19)
+    - B010SFTOGW | strength=48.0 | Marvel Spider-Man 6-inch Legends Series Web-Slinging Heroines: Spider-Girl
+    - B01D11DW1I | strength=41.0 | Marvel Spider-Man 6-inch Legends Series Jackal
+    - B01D11DVPA | strength=40.0 | Marvel Spider-Man 6-inch Legends Series Green Goblin
+    - B01D11DWPE | strength=39.0 | Marvel Spider-Man 6-inch Legends Series Multiverse Spider-Men: Spider-UK
+    - B010SFU1J6 | strength=37.0 | Marvel Spider-Man 6-inch Legends Series Evil Adversaries: Hobgoblin(Discontinued by manufacturer)
+    - B01D11DWO0 | strength=36.0 | Marvel Spider-Man 6-inch Legends Series Shocker
+    - B010SFU1NW | strength=32.0 | Marvel Spider-Man 6-inch Legends Series Web-Slinging Heroines: Marvel&rsquo;s Silk(Discontinued by manufacturer)
+    - B01D11DWS6 | strength=32.0 | Marvel Spider-Man 6-inch Legends Series Multiverse Spider-Men: Spider-Man 2099
+
+--- Local 0 (items=81) ---
+
+  Fine 0 (items=55)
+    - B00IJZPZM6 | strength=113.0 | Marvel Guardians of The Galaxy Marvel's Nova Figure, 6-Inch
+    - B00IJZPZLC | strength=109.0 | Marvel Guardians of The Galaxy Rocket Raccoon Figure, 6-Inch
+    - B00IJZPZLW | strength=104.0 | Marvel Guardians of The Galaxy Gamora Figure, 6-Inch
+    - B00IJZPZKS | strength=83.0 | Marvel Guardians of The Galaxy Star-Lord Figure, 6-Inch
+    - B00IJZPZSU | strength=78.0 | Marvel Guardians of The Galaxy Iron Man Figure, 6-Inch
+    - B00G69PTKK | strength=76.0 | Captain America Marvel Legends Captain America Figure 6 Inches
+    - B00IJZPZMG | strength=69.0 | Marvel Legends Guardians of the Galaxy Drax Action Figure,6 Inch
+    - B006CD0BC6 | strength=65.0 | Marvel Universe Dark Wolverine Figure 6 Inches
+
+  Fine 2 (items=12)
+    - B006WYKZX0 | strength=8.0 | Diamond Select Toys Marvel Select: Avengers Movie Hulk Action Figure
+    - B004K7BHYC | strength=6.0 | Diamond Select Toys Marvel Select Iron Man 3 Movie: War Machine Action Figure
+    - B005VH2NG6 | strength=6.0 | Captain America Movie Exclusive 6 Inch Action Figure Nick Fury
+    - B006CD0C98 | strength=6.0 | Marvel Universe Marvel Legends Marvel's Drax Figure 6 Inches
+    - B00AW1C2XU | strength=6.0 | Marvel Universe Marvel Legends Conquering Heroes Figure 6 Inches
+    - B00CX5X96M | strength=4.0 | Marvel Legends Scarlet Spider Action Figure
+    - B00ABD6XIE | strength=4.0 | Diamond Select Toys Marvel Select Iron Man 3 Movie: Iron Man Mark 42 Action Figure
+    - B0049MPELU | strength=2.0 | Iron Man 6&quot; Figure Mark VI
+
+  Fine 1 (items=10)
+    - B00AZZ0FSW | strength=41.0 | Marvel Iron Man Marvel Legends Lieutenant Colonel James Rhodes Figure 6 Inches
+    - B00ASXSOZ2 | strength=37.0 | Marvel Legends Heroic Age Iron Man Figure 6 Inches
+    - B00ASXSP06 | strength=34.0 | Marvel Iron Man Iron Patriot Figure 6 Inches
+    - B00AZZ0F46 | strength=33.0 | Marvel Iron Man Ultron Figure 6 Inches
+    - B00AZZ0F4Q | strength=32.0 | Marvel Iron Man Marvel Legends Iron Man Mark 42 Figure 6 Inches
+    - B00ASXSP10 | strength=21.0 | Marvel Iron Man Classic Iron Man Figure 6 Inches
+    - B00CX5X6E2 | strength=6.0 | Marvel Legends Wrecking Crew Action Figure
+    - B00BFXN382 | strength=4.0 | He-Man Masters of the Universe Classics RAM MAN Exclusive Figure Motu
+
+--- Local 1 (items=49) ---
+
+  Fine 3 (items=19)
+    - B00BSN0L48 | strength=74.0 | Superman Man of Steel Movie Masters Faora Action Figure
+    - B00BSN0K4E | strength=67.0 | Superman Man of Steel Movie Masters Superman with Black Suit Action Figure
+    - B00BSN0L2U | strength=65.0 | Man of Steel Movie Masters General Zod with Kryptonian Armor
+    - B00BSN0K3U | strength=62.0 | Superman Man of Steel Movie Masters Jor-el Action Figure
+    - B006O6F25W | strength=44.0 | Batman The Dark Knight Rises Movie Masters Collector Bane Figure
+    - B006O6F1NK | strength=41.0 | Batman The Dark Knight Rises Movie Masters Collector Batman Figure
+    - B00BSN0L1G | strength=40.0 | Superman Man of Steel Movie Masters Superman with Kryptonian Key Action Figure
+    - B006O6F202 | strength=35.0 | Batman The Dark Knight Rises Movie Masters Collector Catwoman Figure (Styles May Vary)
+
+  Fine 1 (items=13)
+    - B00ABY8MNC | strength=14.0 | Mattel DC Comics Unlimited Aquaman Collector Figure
+    - B00A8UK5NY | strength=12.0 | DC Comics Unlimited Hawkman Collector Figure
+    - B00ABY8MOG | strength=12.0 | Mattel DC Comics Unlimited Darkseid Collector Figure
+    - B00ABY8MWI | strength=7.0 | DC Comics Unlimited Wonder Woman Collector Figure
+    - B00ABY8WNW | strength=7.0 | DC Comics Unlimited Green Lantern Hal Jordan Collector Figure
+    - B00A8UFKAM | strength=4.0 | DC Comics Unlimited Superman Collector Action Figure
+    - B00ABY8MNM | strength=4.0 | DC Comics Unlimited Batman Collector Figure
+    - B001RE8R6M | strength=2.0 | Mattel DC Universe Captain Cold Figure
+
+  Fine 0 (items=11)
+    - B00BIAC2RU | strength=15.0 | Batman Unlimited Vampire Collector Action Figure
+    - B00FLKKC3O | strength=14.0 | Batman Unlimited Arkham Origins Batman Action Figure
+    - B00BC1UBDW | strength=10.0 | Batman Unlimited Planet X with Batmite Collector Action Figure
+    - B00DEJ39OI | strength=10.0 | DC Collectibles Batman: Arkham Origins Series 1: Batman Action Figure
+    - B00B9HHAGK | strength=9.0 | Batman Unlimited Dark Knight Returns Collector Action Figure
+    - B00E4WU67M | strength=7.0 | Batman Unlimited Beware The Batman Collector Action Figure
+    - B005II65US | strength=4.0 | Diamond Select Toys Marvel Select: Captain America 2: Captain America Action Figure
+    - B006ROUFNU | strength=3.0 | Batman Legacy Nightwing Collector Figure
+
+================================================================================
+MEDIAN CASE
+================================================================================
+Global label: 8
+Items: 877
+Selection score: 2.144812
+Fine internal edges: 1881
+
+--- Local 1 (items=202) ---
+
+  Fine 1 (items=103)
+    - B00ND003ZQ | strength=81.0 | My Little Pony Cutie Mark Magic Flower Wishes Figure
+    - B00ND00432 | strength=78.0 | My Little Pony Cutie Mark Magic Rainbow Dash Figure
+    - B00ND000MM | strength=76.0 | My Little Pony Cutie Mark Magic Pinkie Pie Figure
+    - B00ND007KM | strength=75.0 | My Little Pony Cutie Mark Magic Princess Twilight Sparkle Figure
+    - B00ND007CK | strength=57.0 | My Little Pony Cutie Mark Magic Sunset Shimmer Figure
+    - B00ND00400 | strength=52.0 | My Little Pony Cutie Mark Magic Fluttershy Figure
+    - B00LISCZ4M | strength=49.0 | My Little Pony Rainbow Shimmer Princess Celestia Pony Figure (Discontinued by manufacturer)
+    - B00ND000JK | strength=49.0 | My Little Pony Cutie Mark Magic Rarity Figure
+
+  Fine 2 (items=49)
+    - B00IVLIQ5G | strength=54.0 | Monster High Inner Monster Fearfully Feisty Mood Pack
+    - B00IVFCNWY | strength=50.0 | Monster High Inner Monster Scared Silly and Shockingly Shy Doll
+    - B00IVFCOAA | strength=47.0 | Monster High Inner Monster Fearfully Feisty 'n Fangtastic Love Doll
+    - B00IVLIQAG | strength=43.0 | Monster High Inner Monster Spooky Sweet Mood Pack
+    - B00IVFCO0U | strength=37.0 | Monster High Inner Monster Spooky Sweet 'n Frightfully Fierce Doll
+    - B00IVLIQ8I | strength=35.0 | Monster High Inner Monster Scared Silly Mood Pack
+    - B00TFXWJN4 | strength=28.0 | Orphan Black - Alison Hendrix
+    - B00TFXWLL4 | strength=28.0 | Orphan Black Cosima Niehaus Pop Vinyl Figure Funko
+
+  Fine 3 (items=39)
+    - B00SL0C7UC | strength=19.0 | Fisher-Price Nickelodeon Blaze &amp; the Monster Machines, Talking Zeg
+    - B00SL0C6VW | strength=18.0 | Fisher-Price Nickelodeon Blaze &amp; The Monster Machines, Slam &amp; Go Crusher
+    - B000C24PSY | strength=17.0 | Webkinz Pig
+    - B00SL0C7MU | strength=17.0 | Fisher-Price Nickelodeon Blaze &amp; the Monster Machines, Slam &amp; Go Blaze
+    - B0013B0I0C | strength=17.0 | Webkinz Himalayan
+    - B000H6H58W | strength=17.0 | Webkinz Yorkie
+    - B00SL0C81U | strength=14.0 | Fisher-Price Nickelodeon Blaze &amp; the Monster Machines, Talking Darington
+    - B000MGVVXM | strength=11.0 | Webkinz Persian Cat
+
+--- Local 5 (items=200) ---
+
+  Fine 3 (items=85)
+    - B001DNTGVC | strength=57.0 |  La Newborn Boutique - Realistic 14&quot; Anatomically Correct Real Girl Baby Doll  All Vinyl First Day Designed by Berenguer  Made in Spain
+    - B001DNYO1Y | strength=57.0 | La Newborn Boutique - Realistic 14&quot; Anatomically Correct Real Boy Baby Doll  All Vinyl First Day Designed by Berenguer  Made in Spain
+    - B00U1MEK94 | strength=30.0 | Little Live Pets Lil' Mouse - Angelee
+    - B00U1MF1AQ | strength=28.0 | Little Live Pets Lil' Mouse House - Snippy
+    - B000F5YYDE | strength=23.0 | Doll Toy Car Seat - Pink Dot
+    - B00C2P75ZY | strength=19.0 | Mooshka Tots Doll - Misha
+    - B00C2P75ZE | strength=19.0 | Mooshka Tots Doll - Zana
+    - B00C2P760S | strength=19.0 | Mooshka Tots Doll - Deava
+
+  Fine 0 (items=61)
+    - B00APTAACE | strength=30.0 | Tayo Little Bus Toy
+    - B0082N4M4W | strength=29.0 | The Little Bus Tayo &ndash; GANI, Pull-back Motor Toy
+    - B00AM9SZWO | strength=26.0 | The Little Bus Tayo Friends Toy car - Carrybongbong
+    - B00AM9W5MK | strength=26.0 | The Little Bus Tayo Friends Toy car - Ruby
+    - B0082N6ETI | strength=25.0 | The Little Bus Tayo Friends Toy car - Toto
+    - B00AMA9OSM | strength=25.0 | The Little Bus Tayo Friends Toy car - Alice
+    - B00B8ECDK2 | strength=23.0 | American Greetings, My Little Pony Hanging Swirl Decorations, 12-Count
+    - B00B9L8T5C | strength=22.0 | Scene Setters Wall Decorating Kit | My Little Pony Friendship Collection | Birthday
+
+  Fine 2 (items=28)
+    - B00JYCF8OS | strength=16.0 | Star Wars - Photomosaic - Darth Vader - 1000 Piece Jigsaw Puzzle
+    - B00JYCF94M | strength=15.0 | Star Wars - Photomosiac - Yoda - 1000 Piece Jigsaw Puzzle
+    - B00EM8DBJ8 | strength=12.0 | Star Wars - Panoramic - Duel on the Death Star - 750 Piece Jigsaw Puzzle
+    - B00JYCF8RK | strength=11.0 | Star Wars - Photomosaic - R2-D2 - 1000 Piece Jigsaw Puzzle
+    - B00LP8F1WS | strength=10.0 | Buffalo Games Panoramic Star Wars Photomosaic:  Rebel Assault - 750 Piece Jigsaw Puzzle by Buffalo Games
+    - B009B7M4Q6 | strength=8.0 | Melissa &amp; Doug On the Go Color by Numbers Kids' Design Board - Unicorns, Ballet, Kittens, and More
+    - B004LV9HNK | strength=7.0 | Corolle Mon Premier Mealtime Set (New)
+    - B00OMVQE44 | strength=6.0 | Star Wars - Photomosiac - Boba Fett - 1000 Piece Jigsaw Puzzle
+
+--- Local 6 (items=136) ---
+
+  Fine 0 (items=79)
+    - B00CZ3F276 | strength=110.0 | My Little Pony Equestria Girls - Pinkie Pie Doll
+    - B00CZ3F22G | strength=88.0 | My Little Pony Equestria Girls - Rarity Doll
+    - B00D9LWJXI | strength=74.0 | My Little Pony Equestria Applejack Fashion Doll
+    - B00D10ELFG | strength=74.0 | My Little Pony Equestria Girls - Fluttershy Doll with Accessory
+    - B00CZ3F3J8 | strength=67.0 | My Little Pony Equestria Girls Rainbow Dash Doll
+    - B00CZ3F6OK | strength=66.0 | My Little Pony Equestria Girls Celestia Doll and Pony Set
+    - B00CZ3F2DA | strength=62.0 | My Little Pony Equestria Girls - Twilight Sparkle Doll
+    - B00CZ3F29Y | strength=62.0 | My Little Pony Equestria Girls Rainbow Dash Doll
+
+  Fine 1 (items=31)
+    - B00A8VJC7S | strength=32.0 | My Little Pony Princess Twilight Sparkle and Rainbow Dash Figures
+    - B006CD0EK0 | strength=30.0 | My Little Pony Friendship is Magic 3 Pack Royal Castle Friends With Twilight Sparkle, Spike The Dragon, and Princess Celestia
+    - B006CD0G0I | strength=24.0 | My Little Pony, Wedding Flower Fillies Set, Sweetie Belle, Apple Bloom, and Scootaloo, 3-Pack
+    - B009TN0EFK | strength=24.0 | My Little Pony Princess Celestia and Pinkie Pie Figures
+    - B009TN0EGE | strength=24.0 | My Little Pony Princess Luna and Rarity Figures
+    - B00A8VJC8C | strength=20.0 | My Little Pony Princess Cadance and Applejack Figures
+    - B00A8VJCQE | strength=16.0 | My Little Pony Princess Celebration Bakery Set
+    - B00CANI9N0 | strength=8.0 | My Little Pony Princess Celebration Cars Set
+
+  Fine 2 (items=16)
+    - B00P2SM166 | strength=19.0 | My Little Pony Equestria Girls Rainbow Rocks Amethyst Star Doll
+    - B00SOI6V30 | strength=19.0 | My Little Pony Equestria Girls Sour Sweet Doll
+    - B00SOI732S | strength=17.0 | My Little Pony Equestria Girls Motorcross Sugar Coat Doll
+    - B00P2SM3N2 | strength=17.0 | My Little Pony Equestria Girls MLP Lyra Heartstrings
+    - B00WHXEMHA | strength=13.0 | My Little Pony Equestria Girl Motocross Bike
+    - B00P2SM1B6 | strength=12.0 | My Little Pony Equestria Girls Rainbow Rocks Cheerilee Doll
+    - B00SOI6VOO | strength=11.0 | My Little Pony Equestria Girls Indigo Zap Sporty Style Motocross Doll
+    - B00P2SM3NC | strength=10.0 | My Little Pony Equestria Girls Rainbow Rocks Roseluck Doll
+
+================================================================================
+RANDOM CASE
+================================================================================
+Global label: 5
+Items: 1504
+Selection score: 1.521277
+Fine internal edges: 2288
+
+--- Local 6 (items=276) ---
+
+  Fine 0 (items=132)
+    - B000099Z8H | strength=22.0 | Insect Lore Ladybug Growing Kit - With Voucher to Redeem Baby Ladybug Larvae Later
+    - B002F9NH4A | strength=19.0 | Melissa &amp; Doug Construction Worker Role Play Costume Dress-Up Set (6 pcs)
+    - B002F9NH68 | strength=17.0 | Melissa &amp; Doug Chef Role Play Costume Dress -Up Set With Realistic Accessories
+    - B00270D4HW | strength=17.0 | Melissa &amp; Doug Sunny Patch Bag of Bugs
+    - B000BYNTYY | strength=16.0 | Melissa &amp; Doug African Plains Safari Jumbo Jigsaw Floor Puzzle (100 pcs, over 4 feet long)
+    - B000088UPU | strength=16.0 | Melissa &amp; Doug Under The Sea - 100 Piece Floor Puzzle
+    - B00K0R5L5C | strength=14.0 | Backyard Safari Magnifying Glass
+    - B0026NDRRM | strength=14.0 | Melissa &amp; Doug Pirate Role Play Costume Dress-Up Set With Hat, Sword, and Eye Patch
+
+  Fine 1 (items=58)
+    - B004VA5HA8 | strength=51.0 | Moon Boat Family Member Finger Puppet Kids Toy 6 PCS
+    - B0057MGKO6 | strength=39.0 | niceEshop(TM) Cute Velvet Animal Style Story Time Educational Finger Puppets Set with niceEshop Cable Tie
+    - B00005BW71 | strength=28.0 | Toysmith Kid's 3-Piece Garden Tool Set
+    - B007FGA2UK | strength=25.0 | Moon Boat (TM) Story Time 10 PCS Velvet Animal Finger Puppets Pinata Filler Kids Party Favors
+    - B00000JD5E | strength=21.0 | Radio Flyer Kid's Wheelbarrow
+    - B00BJ0AAUK | strength=17.0 | Hape Sand &amp; Sun Beach Toys Watering Can in Yellow
+    - B0013FUKE2 | strength=14.0 | Shopping List Booster Pack - Fruit &amp; Veg
+    - B004ZWN7FE | strength=13.0 | Aeromax Junior Cowboy Hat with Bandanna, Black
+
+  Fine 2 (items=57)
+    - B000GKATXM | strength=27.0 | Melissa &amp; Doug Alphabet Sound Puzzle - Wooden  Puzzle With Sound Effects (26 pcs)
+    - B000GKD01K | strength=27.0 | Melissa &amp; Doug Numbers Sound Puzzle - Wooden  Puzzle With Sound Effects (21 pcs)
+    - B000VX7G3U | strength=24.0 | Curious George Pinata, Pull String
+    - B000OQCRJC | strength=24.0 | Curious George Plastic Tablecloth, 84&quot; x 54&quot;
+    - B000M8H8Y6 | strength=14.0 | Megabloks 80pc Lrg Mega Bloks Bag
+    - B001R6ATXO | strength=10.0 | Elefun and Friends The Butterfly Catchin Game
+    - B00004TQ2O | strength=8.0 | Step2  Crabbie Sandbox
+    - B0015USUQK | strength=6.0 | Fisher-Price Amazing Animals Spinnin' Around Musical Zoo
+
+--- Local 4 (items=237) ---
+
+  Fine 3 (items=121)
+    - B0037UT3E4 | strength=92.0 | Melissa &amp; Doug Car Carrier Truck and Cars Wooden Toy Set With 1 Truck and 4 Cars
+    - B000HDC3QE | strength=87.0 | Magformers Classic (30-pieces) Set Magnetic    Building      Blocks, Educational  Magnetic    Tiles Kit , Magnetic    Construction  STEM Toy Set
+    - B00004W3Y4 | strength=78.0 | Do A Dot Art! Markers 6-Pack Rainbow Washable Paint Markers, The Original Dot Marker
+    - B0007Y4DLG | strength=71.0 | Melissa &amp; Doug See &amp; Spell Wooden Educational Toy With 8 Double-Sided Spelling Boards and 50+ Letters
+    - B005WYFLNU | strength=49.0 | Melissa &amp; Doug Dress-Up Reusable Sticker Pad
+    - B007WDPXFK | strength=49.0 | Melissa &amp; Doug Sticker Pad - Make-a-Meal, 225+ Food Stickers
+    - B00EJAEWW4 | strength=48.0 | Melissa &amp; Doug Make-a-Face Sticker Pad - Crazy Animals, 20 Faces, 5 Sticker Sheets
+    - B004YEFPVW | strength=48.0 | Melissa &amp; Doug Low Loader
+
+  Fine 1 (items=54)
+    - B000262GXG | strength=74.0 | Melissa &amp; Doug Wooden Jigsaw Puzzles Set: Vehicles and Construction
+    - B000GL1DI6 | strength=60.0 | Melissa &amp; Doug Under the Sea Ocean Animals Wooden Jigsaw Puzzle With Storage Tray (24 pcs)
+    - B000QSLK9G | strength=60.0 | Melissa &amp; Doug Wild Animals 4-in-1 Wooden Jigsaw Puzzles in a Storage Box (48 pcs)
+    - B000REP3CO | strength=49.0 | Melissa &amp; Doug Dinosaurs 4-in-1 Wooden Jigsaw Puzzles in a Storage Box (48 pcs)
+    - B000Q78AX6 | strength=46.0 | Melissa &amp; Doug Construction Vehicles 4-in-1 Wooden Jigsaw Puzzles (48 pcs)
+    - B000084JMC | strength=44.0 | Melissa &amp; Doug Fire Truck Jumbo Jigsaw Floor Puzzle (24 pcs, 4 feet long)
+    - B000FPE038 | strength=43.0 | Melissa &amp; Doug African Plains Safari Wooden Jigsaw Puzzle With Storage Tray (24 pcs)
+    - B001E6DIYY | strength=40.0 | Melissa &amp; Doug Space Voyage Wooden Jigsaw Puzzle (48 pcs)
+
+  Fine 0 (items=47)
+    - B006EFMSSM | strength=108.0 | Hot Wheels 9-Car Gift Pack (Styles May Vary)
+    - B006UD2RB6 | strength=100.0 | Matchbox 9-Car Gift Pack (Styles May Vary)
+    - B005KJE9L2 | strength=63.0 | Playskool Mr. Potato Head
+    - B005IBVLHW | strength=57.0 | Playskool Mrs. Potato Head
+    - B002IMMDN0 | strength=46.0 |  Hot Wheels 100-Car, Rolling Storage Case with Retractable Handle
+    - B00RYZR3SG | strength=46.0 | Hot Wheels Mega Hauler Truck
+    - B0023TEEU8 | strength=43.0 | Rhode Island Novelty Children's Dress Up Soft Plastic Construction Hard Hats | Set of 12 |
+    - B001CSM07U | strength=38.0 |  Matchbox On A Mission
+
+--- Local 5 (items=221) ---
+
+  Fine 1 (items=112)
+    - B00D8VHIMG | strength=455.0 | Sorry! 2013 Edition Game
+    - B00D8STBHY | strength=432.0 | Hasbro Connect 4 Game
+    - B00ABA0ZOA | strength=274.0 | Jenga Classic Game
+    - B00D7OAOYI | strength=238.0 | Trouble Game
+    - B00000DMF5 | strength=201.0 | Hasbro 04700 Candy Land Kingdom of Sweet Adventures Board Game for Kids Ages 3 and Up (Amazon Exclusive), Red
+    - B00D8VHJKC | strength=164.0 | Scattergories Game
+    - B008FD8ETS | strength=157.0 | Hungry Hungry Hippos
+    - B00004YO0Y | strength=151.0 | Let's Go Fishin'
+
+  Fine 2 (items=54)
+    - B00WR5357G | strength=201.0 | Spot It! 5 Year Anniversary
+    - B00000K3BR | strength=176.0 | Stomp Rocket The Original Jr. Glow, 4 Rockets (Packaging May Vary)
+    - B0006O8Q7Y | strength=128.0 | Stomp Rocket Ultra Rocket, 4 Rockets [Packaging May Vary]
+    - B00CNNPNQI | strength=80.0 | Perplexus Original
+    - B00486ZVC4 | strength=79.0 | Educational Insights The Sneaky, Snacky Squirrel Game
+    - B007EA4UBY | strength=77.0 | Melissa &amp; Doug Suspend Family Game, Classic Games, Exciting Balancing Game, Develops Hand-Eye Coordination, 12.5&quot; H x 2.8&quot; W x 2.8&quot; L
+    - B00006408Q | strength=76.0 | ThinkFun Zingo (Discontinued by manufacturer)
+    - B000GUGY1S | strength=60.0 | The Original PlasmaCar by PlaSmart &ndash; Blue &ndash; Ride On Toy, Ages 3 yrs and Up, No batteries, gears, or pedals, Twist, Turn, Wiggle for endless fun
+
+  Fine 3 (items=44)
+    - B0039WN9FE | strength=40.0 | Backyard Safari Cargo Vest
+    - B003AQBBW2 | strength=28.0 | Backyard Safari 6-in-1 Field Tools
+    - B003R68WF4 | strength=19.0 | Backyard Exploration Critter Case
+    - B000YFSZU8 | strength=19.0 | 6&quot; Handheld Brass Telescope with Wooden Box - Pirate Navigation
+    - 1932855785 | strength=18.0 | SmartLab Toys Squishy Human Body
+    - B001FY2VDO | strength=18.0 | Rhode Adventure Planet Bug Catcher, 6-Piece Box Set
+    - B000066HSN | strength=11.0 | Great Explorations 3-D Solar System
+    - B001L7TIP4 | strength=9.0 | Djubi Classic - the Coolest New Twist on the Game of Catch!
