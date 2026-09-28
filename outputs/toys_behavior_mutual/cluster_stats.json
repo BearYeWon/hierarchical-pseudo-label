@@ -1,0 +1,31 @@
+{
+  "config": {
+    "global_k_requested": 32,
+    "local_k_requested": 8,
+    "fine_k_requested": 4,
+    "min_cluster_size": 10,
+    "seed": 42
+  },
+  "num_items": 25013,
+  "global": {
+    "num_clusters": 32,
+    "min": 211,
+    "mean": 781.65625,
+    "median": 617.5,
+    "max": 2630
+  },
+  "local": {
+    "num_clusters": 256,
+    "min": 2,
+    "mean": 97.70703125,
+    "median": 69.5,
+    "max": 619
+  },
+  "fine": {
+    "num_clusters": 869,
+    "min": 1,
+    "mean": 28.783659378596088,
+    "median": 16.0,
+    "max": 247
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "num_lcc_nodes": 25013,
+  "num_lcc_edges": 70878,
+  "global": {
+    "level": "global",
+    "num_clusters": 32,
+    "intra_edges": 62388,
+    "total_edges": 70878,
+    "intra_edge_ratio": 0.8802167104037925,
+    "intra_mean_weight": 4.172389030456543,
+    "intra_median_weight": 3.0,
+    "possible_intra_pairs": 15153830,
+    "intra_density": 0.004116979007947166
+  },
+  "local": {
+    "level": "local",
+    "num_clusters": 256,
+    "intra_edges": 54233,
+    "total_edges": 70878,
+    "intra_edge_ratio": 0.7651598521402974,
+    "intra_mean_weight": 4.239134788513184,
+    "intra_median_weight": 3.0,
+    "possible_intra_pairs": 2388368,
+    "intra_density": 0.022707137258579917,
+    "parent_edge_retention": 0.869285760082067
+  },
+  "fine": {
+    "level": "fine",
+    "num_clusters": 869,
+    "intra_edges": 48088,
+    "total_edges": 70878,
+    "intra_edge_ratio": 0.6784615818730777,
+    "intra_mean_weight": 4.293482780456543,
+    "intra_median_weight": 3.0,
+    "possible_intra_pairs": 847884,
+    "intra_density": 0.05671530539554939,
+    "parent_edge_retention": 0.8866926041340143
+  }
+}

@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environments
+.venv/
+venv/
+env/
+
+# Generated experiment outputs
+outputs/**/*.npy
+outputs/**/*.npz
+outputs/**/*.pt
+
+# Optional large generated files
+outputs/**/hierarchical_labels.csv
+
+# Logs
+*.log
+
+# OS/editor
+.DS_Store
+.vscode/

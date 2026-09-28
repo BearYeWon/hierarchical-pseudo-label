@@ -1,0 +1,142 @@
+======================================================================
+HIERARCHICAL GRAPH PSEUDO-LABEL CASE STUDY
+======================================================================
+Global cluster: 18
+Items: 2630
+
+├── Local 6 (n=559)
+│   ├── Fine 2 (n=211, internal_edges=192)
+│   │   • Transformers Robots in Disguise Warrior Class Optimus Prime Figure  [B00LXCKA8G]  graph_strength=21.0
+│   │   • Transformers Robots in Disguise 1-Step Changers Decepticon Fracture Figure  [B00P3XW2DM]  graph_strength=18.0
+│   │   • Transformers Robots in Disguise Legion Class Fixit Figure  [B00LXCKQQC]  graph_strength=16.0
+│   │   • Transformers Robots in Disguise Warriors Class Sideswipe Figure  [B00P3XW2KU]  graph_strength=16.0
+│   │   • Transformers Robots in Disguise Warrior Class Bumblebee Figure  [B00LXCKA6S]  graph_strength=15.0
+│   │   • Metals Marvel 4 inch Classic Figure - Hulk (M58)  [B01GO15WR4]  graph_strength=15.0
+│   │
+│   ├── Fine 1 (n=186, internal_edges=210)
+│   │   • Cryptozoic Entertainment DC Deck-Building Game: Heroes Unite  [B00CHY7Y4C]  graph_strength=38.0
+│   │   • Cryptozoic Entertainment DC Deck-Building Game Crossover Pack 1: Justice Society of America  [B00PO9VMYU]  graph_strength=35.0
+│   │   • Ghostbusters ECTO-1 Vehicle and Slimer Figure  [B01ARGATC0]  graph_strength=33.0
+│   │   • Cryptozoic Entertainment DC Deck-Building Game: Forever Evil  [B00KU13SCG]  graph_strength=31.0
+│   │   • Cryptozoic Entertainment DC Deck-Building Game: Crisis Expansion 1  [B00LD173HI]  graph_strength=28.0
+│   │   • Cryptozoic Entertainment DC Deck-Building Game Crossover Pack 3: Legion of Super-Heroes  [B00VM7VJJQ]  graph_strength=26.0
+│   │
+│   ├── Fine 0 (n=103, internal_edges=117)
+│   │   • Disney &quot;Mickey Mouse&quot; Swirl Value Pack, Party Favor  [B0074SPXVC]  graph_strength=43.0
+│   │   • Dinotrux Diecast, Tonton  [B014AHJ16C]  graph_strength=36.0
+│   │   • Plastic Minnie Mouse Birthday Door Poster, 60&quot; x 27&quot;  [B0091TN2I8]  graph_strength=32.0
+│   │   • Dinotrux Diecast Garby Vehicle  [B014AHJ6DA]  graph_strength=31.0
+│   │   • 5-Piece Set Mickey Scene Setter, Multicolored  [B00767P2OO]  graph_strength=28.0
+│   │   • Dinotrux Diecast Skya Vehicle  [B014AHJ73Y]  graph_strength=27.0
+│   │
+│   ├── Fine 3 (n=59, internal_edges=122)
+│   │   • Transformers Age of Extinction Optimus Prime One-Step Changer (Discontinued by manufacturer)  [B00ECV4F8Q]  graph_strength=93.0
+│   │   • Transformers Age of Extinction Lockdown One-Step Changer  [B00ECV4GCG]  graph_strength=59.0
+│   │   • Transformers Age of Extinction Bumblebee One-Step Changer(Discontinued by manufacturer)  [B00G69QO2C]  graph_strength=50.0
+│   │   • Transformers Age of Extinction Autobot Hound One-Step Changer  [B00G69QGV6]  graph_strength=47.0
+│   │   • Transformers Age of Extinction Dinobot Slug One-Step Changer  [B00G69QNA0]  graph_strength=47.0
+│   │   • Transformers Age of Extinction Galvatron One-Step Changer  [B00G69QMRY]  graph_strength=45.0
+│   │
+│
+├── Local 3 (n=449)
+│   ├── Fine 3 (n=225, internal_edges=214)
+│   │   • Anki OVERDRIVE Expansion Track Speed Kit  [B00V6951Z8]  graph_strength=64.0
+│   │   • Mary Meyer Easy Ride'Ums 33 Inch Stick Horse, Appaloosa  [B000BXJYTY]  graph_strength=52.0
+│   │   • Mary Meyer Fancy Prancers, Fancy Prancer Unicorn, 33&quot;  [B000CD89VC]  graph_strength=52.0
+│   │   • Anki OVERDRIVE Expansion Track Corner Kit  [B00V69528Y]  graph_strength=52.0
+│   │   • Anki OVERDRIVE Nuke Expansion Car  [B00V69525M]  graph_strength=35.0
+│   │   • LEGO Ultrabuild Batman 4526  [B005VPRE3U]  graph_strength=32.0
+│   │
+│   ├── Fine 1 (n=117, internal_edges=449)
+│   │   • Back to the Future Doc Brown Fun Pack - LEGO Dimensions  [B00XUYWYU2]  graph_strength=307.0
+│   │   • Ninjago Sensei Wu Fun Pack - LEGO Dimensions  [B00XUYWUT2]  graph_strength=265.0
+│   │   • Dr. Who Cyberman Fun Pack - Lego Dimensions  [B010R2RHGU]  graph_strength=263.0
+│   │   • DC Superman Fun Pack - LEGO Dimensions  [B00XUYWTUC]  graph_strength=244.0
+│   │   • Ghostbusters Level Pack - LEGO Dimensions  [B013J4L9T4]  graph_strength=223.0
+│   │   • DC Aquaman Fun Pack - LEGO Dimensions  [B00XUYWZ5Q]  graph_strength=219.0
+│   │
+│   ├── Fine 2 (n=61, internal_edges=144)
+│   │   • Hape Wooden Doll House Furniture Master Bedroom Set  [B00712O3XU]  graph_strength=161.0
+│   │   • Hape Wooden Doll House Furniture Media Room Set  [B00712O4H0]  graph_strength=160.0
+│   │   • Hape Wooden Doll House Furniture Children's Room with Accessories  [B00712NSTA]  graph_strength=157.0
+│   │   • Hape Wooden Doll House Furniture Dining Room Set  [B00712O4XE]  graph_strength=153.0
+│   │   • Hape Family Pets Wooden Doll House Animals  [B00712O56A]  graph_strength=139.0
+│   │   • Hape Wooden Doll House Furniture Family Bathroom Set  [B006WZO63Y]  graph_strength=132.0
+│   │
+│   ├── Fine 0 (n=46, internal_edges=54)
+│   │   • Lite Brite Refill: The Zoo (7x7 SQUARE) - NOT FOR NEW LITE BRITES - For pre-2013 Lite Brites ONLY  [B001UIL2I0]  graph_strength=35.0
+│   │   • Lite Brite Refill  [B001TAGANG]  graph_strength=32.0
+│   │   • Lite Brite Refill: Things That Go (7x7 SQUARE) - NOT FOR NEW LITE BRITES - For pre-2013 Lite Brites ONLY  [B001T8J60M]  graph_strength=22.0
+│   │   • Lite Brite Refill: The Farm (7x7 SQUARE) - NOT FOR NEW LITE BRITES - For pre-2013 Lite Brites ONLY  [B001TAQCD4]  graph_strength=17.0
+│   │   • Lite Brite Refill: Dinosaurs (7x7 SQUARE) - NOT FOR NEW LITE BRITES - For pre-2013 Lite Brites ONLY  [B001UIVZNC]  graph_strength=17.0
+│   │   • Schleich Peanuts Snoopy Hugging Woodstock Figure  [B00J4S5OIW]  graph_strength=12.0
+│   │
+│
+├── Local 1 (n=318)
+│   ├── Fine 3 (n=157, internal_edges=136)
+│   │   • Adora Toddler Workout Chic 20&quot; Girl Weighted Doll Gift Set for Children 6+ Huggable Vinyl Cuddly Snuggle Soft Body Toy  [B005OPQQ7W]  graph_strength=36.0
+│   │   • Paradise Galleries Reborn Baby Doll Lifelike Realistic Baby Doll, Tall Dreams Gift Set Ensemble, 19-inch Weighted Baby, for Ages 3+  [B005G14SGU]  graph_strength=24.0
+│   │   • Badger Basket White Doll High Chair with Plate, Bib, and Spoon (fits American Girl dolls)  [B0001XNTJA]  graph_strength=20.0
+│   │   • Adora Pin-a-four Seasons 20&quot; Play Doll Sandy Blonde Hair/Blue Eyes  [B004U9ZDW2]  graph_strength=18.0
+│   │   • Adora Toddler WOOF! 20&quot; Boy Weighted Doll Gift Set for Children 6+ Huggable Vinyl Cuddly Snuggle Soft Body Toy  [B004QPEWVS]  graph_strength=16.0
+│   │   • Boon Marco Light-Up Bath Toy  [B00R88PN6I]  graph_strength=12.0
+│   │
+│   ├── Fine 1 (n=73, internal_edges=86)
+│   │   • Nickelodeon, Paw Patrol Racers - Rubble  [B00ITOB7N8]  graph_strength=74.0
+│   │   • Nickelodeon, Paw Patrol Racers - Chase  [B00ITOB7FQ]  graph_strength=67.0
+│   │   • Nickelodeon, Paw Patrol Racers, Marshall's Fire Truck Vehicle  [B00ITOB7GK]  graph_strength=60.0
+│   │   • Nickelodeon, Paw Patrol Racers - Zuma  [B00ITOB7D8]  graph_strength=47.0
+│   │   • Nickelodeon, Paw Patrol Racers - Rocky  [B00ITOB7OC]  graph_strength=42.0
+│   │   • Nickelodeon, Paw Patrol Racers - Skye  [B00ITOB918]  graph_strength=33.0
+│   │
+│   ├── Fine 2 (n=46, internal_edges=47)
+│   │   • Minecraft Sheared Sheep 5&quot; Figure  [B014AHLJZS]  graph_strength=14.0
+│   │   • Minecraft Steve with Pickaxe 5&quot; Figure  [B014AHLPP2]  graph_strength=14.0
+│   │   • Minecraft Exploding Creeper 5&quot; Figure  [B014AHLQ0G]  graph_strength=14.0
+│   │   • PLAYMOBIL Princess Carrying Case Playset  [B003VW59SM]  graph_strength=13.0
+│   │   • PLAYMOBIL&reg; Fairy Carrying Case Playset  [B009F7L4TA]  graph_strength=11.0
+│   │   • Minecraft Armor Up Alex 5&quot; Figure  [B014AHLZC0]  graph_strength=11.0
+│   │
+│   ├── Fine 0 (n=42, internal_edges=34)
+│   │   • Monster Tail Mini Loom Bracelet  [B00J7PI4MU]  graph_strength=20.0
+│   │   • Rainbow Loom Tail Upgrade Kit - Metal Hook - Pink  [B00J5U4L8S]  graph_strength=19.0
+│   │   • Rainbow Loom  [B00K18YIOU]  graph_strength=13.0
+│   │   • MindWare Q-BA-MAZE 2.0 Zoom Stunt Set  [B009AEXUX6]  graph_strength=10.0
+│   │   • Rainbow Loom Alpha Loom Pixel Art Toy  [B00X5Y3NOI]  graph_strength=10.0
+│   │   • MindWare Q-BA-MAZE 2.0 Bounce Stunt Set  [B009AEXU68]  graph_strength=8.0
+│   │
+│
+├── Local 0 (n=307)
+│   ├── Fine 0 (n=118, internal_edges=90)
+│   │   • Barbie and The Secret Door Doll  [B00IVLIKA2]  graph_strength=18.0
+│   │   • Barbie and The Secret Door Small Doll Giftset  [B00IVP108M]  graph_strength=17.0
+│   │   • Melissa &amp; Doug My First Paint With Water Coloring Book: Animals (24 Painting Pages)  [B00V9P2LRA]  graph_strength=15.0
+│   │   • Melissa &amp; Doug Paint With Water - Vehicles, 20 Perforated Pages With Spillproof Palettes  [B006XXHO3O]  graph_strength=14.0
+│   │   • Melissa &amp; Doug Paint With Water Activity Book - Ocean (20 Pages)  [B006Y3RF64]  graph_strength=14.0
+│   │   • Hog Wild Holiday Reindeer Popper  [B00J0X2BHS]  graph_strength=13.0
+│   │
+│   ├── Fine 2 (n=80, internal_edges=104)
+│   │   • Transformers Construct-Bots Elite Class Wheeljack Buildable Action Figure  [B00CG5WODI]  graph_strength=27.0
+│   │   • Transformers Construct-Bots Elite Class Soundwave Buildable Action Figure  [B00CG5WOAG]  graph_strength=22.0
+│   │   • McFarlane Toys Assassin's Creed Series 3 Arno Dorian Action Figure  [B00K3EYK40]  graph_strength=20.0
+│   │   • Transformers Construct-Bots Elite Class Megatron Buildable Action Figure  [B00CG5WQDQ]  graph_strength=17.0
+│   │   • Ubisoft Assassin's Creed Unity Phantom Blade  [B00KR4MLCO]  graph_strength=17.0
+│   │   • Transformers Construct-Bots Triple Changers Blitzwing Buildable Action Figure  [B00CG5WMJE]  graph_strength=16.0
+│   │
+│   ├── Fine 3 (n=68, internal_edges=96)
+│   │   • LEGO Technic Record Breaker  [B00NHQHP2U]  graph_strength=33.0
+│   │   • LEGO Technic 42027 Desert Racer Model Kit(Discontinued by manufacturer)  [B00J4S6I7S]  graph_strength=22.0
+│   │   • LEGO Technic 42020 Twin-Rotor Helicopter Model Kit  [B00J4S4EB0]  graph_strength=21.0
+│   │   • LEGO Technic Quad Bike  [B00NHQHPFC]  graph_strength=21.0
+│   │   • Slugterra, Eli's Blaster 2.0 Defender Mark One with 2 Firing Slugs  [B00FS41PAM]  graph_strength=18.0
+│   │   • SLUGTERRA Slug Ammo 2 Bullets (5 Pack)  [B00GNK821U]  graph_strength=16.0
+│   │
+│   ├── Fine 1 (n=41, internal_edges=159)
+│   │   • Chuggington StackTrack Old Puffer Pete  [B00381A1KC]  graph_strength=119.0
+│   │   • Chuggington StackTrack Wilson  [B00381A1IY]  graph_strength=104.0
+│   │   • Chuggington StackTrack Brewster  [B00381A1JI]  graph_strength=99.0
+│   │   • Chuggington StackTrack Dunbar  [B00381A1JS]  graph_strength=97.0
+│   │   • Chuggington StackTrack Zephie  [B00381A1KW]  graph_strength=93.0
+│   │   • TOMY Chuggington StackTrack Action Chugger  [B00381A1NO]  graph_strength=85.0
+│   │
+│

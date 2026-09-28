@@ -1,0 +1,12 @@
+{
+  "nodes": 54981,
+  "edges": 73365,
+  "avg_degree": 2.668740110219894,
+  "max_degree": 20,
+  "isolated_nodes": 26582,
+  "mean_edge_weight": 4.0395283699035645,
+  "min_edge_weight": 2.0,
+  "max_edge_weight": 412.0,
+  "components": 27893,
+  "largest_component": 25013
+}
